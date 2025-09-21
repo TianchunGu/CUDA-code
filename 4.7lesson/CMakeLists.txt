@@ -10,7 +10,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON) # 表明如果找不到指定版本的 C++ �
 
 set(CMAKE_CUDA_FLAGS "${CMAKE_CUDA_FLAGS} -O3 -arch=sm_86 -Xptxas -dlcm=ca")
 # set(CMAKE_CUDA_FLAGS_DEBUG="-G -g -O0")
-find_package(CUDA 11.7 REQUIRED)
+find_package(CUDA 11.6 REQUIRED)
 if (CUDA_FOUND)
     message(STATUS "Found CUDA ${CUDA_VERSION_STRING} at ${CUDA_TOOLKIT_ROOT_DIR}")
     message(STATUS "CUDA_INCLUDE_DIRS: ${CUDA_INCLUDE_DIRS}")
