@@ -1,0 +1,3 @@
+/home/gtc/Projects/CUDA-code/4.6lesson/build/CMakeFiles/constant_memory.dir
+/home/gtc/Projects/CUDA-code/4.6lesson/build/CMakeFiles/edit_cache.dir
+/home/gtc/Projects/CUDA-code/4.6lesson/build/CMakeFiles/rebuild_cache.dir

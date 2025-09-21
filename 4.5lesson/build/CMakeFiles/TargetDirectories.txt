@@ -1,0 +1,4 @@
+/home/gtc/Projects/CUDA-code/4.5lesson/build/CMakeFiles/static_shared_memory.dir
+/home/gtc/Projects/CUDA-code/4.5lesson/build/CMakeFiles/dynamic_shared_memory.dir
+/home/gtc/Projects/CUDA-code/4.5lesson/build/CMakeFiles/edit_cache.dir
+/home/gtc/Projects/CUDA-code/4.5lesson/build/CMakeFiles/rebuild_cache.dir

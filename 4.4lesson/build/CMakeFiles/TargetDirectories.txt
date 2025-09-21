@@ -1,0 +1,3 @@
+/home/gtc/Projects/CUDA-code/4.4lesson/build/CMakeFiles/global_memory.dir
+/home/gtc/Projects/CUDA-code/4.4lesson/build/CMakeFiles/edit_cache.dir
+/home/gtc/Projects/CUDA-code/4.4lesson/build/CMakeFiles/rebuild_cache.dir

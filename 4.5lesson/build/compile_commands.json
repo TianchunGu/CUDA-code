@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gtc/Projects/CUDA-code/4.5lesson/build",
+  "command": "/usr/local/cuda-11.6/bin/nvcc -forward-unknown-to-host-compiler  -I/usr/local/cuda-11.6/include  --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++14 -x cu -c /home/gtc/Projects/CUDA-code/4.5lesson/static_shared_memory.cu -o CMakeFiles/static_shared_memory.dir/static_shared_memory.cu.o",
+  "file": "/home/gtc/Projects/CUDA-code/4.5lesson/static_shared_memory.cu"
+},
+{
+  "directory": "/home/gtc/Projects/CUDA-code/4.5lesson/build",
+  "command": "/usr/local/cuda-11.6/bin/nvcc -forward-unknown-to-host-compiler  -I/usr/local/cuda-11.6/include  --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++14 -x cu -c /home/gtc/Projects/CUDA-code/4.5lesson/dynamic_shared_memory.cu -o CMakeFiles/dynamic_shared_memory.dir/dynamic_shared_memory.cu.o",
+  "file": "/home/gtc/Projects/CUDA-code/4.5lesson/dynamic_shared_memory.cu"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gtc/Projects/CUDA-code/4.4lesson/build",
+  "command": "/usr/local/cuda-11.6/bin/nvcc -forward-unknown-to-host-compiler  -I/usr/local/cuda-11.6/include  -O3 -arch=sm_86 --ptxas-options=-v --generate-code=arch=compute_52,code=[compute_52,sm_52] -std=c++14 -x cu -c /home/gtc/Projects/CUDA-code/4.4lesson/global_memory.cu -o CMakeFiles/global_memory.dir/global_memory.cu.o",
+  "file": "/home/gtc/Projects/CUDA-code/4.4lesson/global_memory.cu"
+}
+]

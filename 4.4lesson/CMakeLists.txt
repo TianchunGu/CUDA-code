@@ -24,6 +24,3 @@ add_executable(global_memory global_memory.cu common.cuh)
 target_include_directories(global_memory PRIVATE ${CUDA_INCLUDE_DIRS})
 # 链接库
 target_link_libraries(global_memory PRIVATE ${CUDA_LIBRARIES})
-
-
-

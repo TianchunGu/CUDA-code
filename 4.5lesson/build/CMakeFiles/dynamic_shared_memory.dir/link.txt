@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/dynamic_shared_memory.dir/dynamic_shared_memory.cu.o -o dynamic_shared_memory  /usr/local/cuda-11.6/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.6/targets/x86_64-linux/lib"
